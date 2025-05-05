@@ -4,7 +4,7 @@ Este é o projeot de uma plataforma de streaming, criado com HTML e CSS puros. O
 
 ## 🔗 Acesse o Projeto
 
-➡️ [Clique aqui para acessar o portfólio online](https://portifolio-phi-liard.vercel.app/)
+➡️ [Clique aqui para acessar o portfólio online](https://alura-plus-6e4y0ulsv-majjoras-projects.vercel.app/)
 
 ## 💻 Tecnologias Utilizadas
 
