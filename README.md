@@ -11,7 +11,7 @@ Este é o projeot de uma plataforma de streaming, criado com HTML e CSS puros. O
 - HTML5
 - CSS3
 - Flexbox
-- Responsividade
+- Grid
 
 ## 📱 Funcionalidades
 
